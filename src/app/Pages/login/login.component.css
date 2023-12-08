@@ -1,0 +1,60 @@
+/* Container
+.container {
+    width: 50%;
+    margin: 50px auto;
+  }
+  
+  /* Form */
+  /*.register-form {
+    background-color: #f9f9f9;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Labels */
+  /* label {
+    font-weight: bold;
+    color: #333;
+  } */
+  
+  /* Input fields */
+  /* .form-control {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  } */
+  
+  /* Invalid input feedback */
+  /* .invalid-feedback {
+    color: #d9534f;
+    font-size: 14px;
+    margin-top: 5px;
+  } */
+  
+  /* Buttons */
+  /* .btn {
+    margin-top: 15px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  } */
+  
+  /* .btn-primary {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .btn-warning {
+    background-color: #ffc107;
+    color: #333;
+  }
+   */
+  /* Float right */
+  /* .float-right {
+    float: right;
+  }
+   */ 
